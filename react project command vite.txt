@@ -1,0 +1,1 @@
+npm create vite@latest slide-show-react --template react 
